@@ -20,28 +20,28 @@ I transitioned into engineering from a UX-focused product background, and now sh
 
 ### **YWD (Work in Progress)**
 Full-stack platform with authentication, protected routes, bookings, Stripe integration, and structured data modelling.
-🔗 Live: https://www.yogawithdash.com/
-🔗 Code: /asynacasana/ywd
+🔗 **Live:** https://www.yogawithdash.com/
+💻 **Code:** /asynacasana/ywd
 
 ### **Lydia Lockhart Website**
 CMS-driven site with Sanity + Calendly integration.
-🔗 Live: https://www.lydialockhartlifecoaching.co.uk/
-🔗 Code: /asynacasana/lydia-lockhart-website
+🔗 **Live:** https://www.lydialockhartlifecoaching.co.uk/
+💻 **Code:** /asynacasana/lydia-lockhart-website
 
 ### **Hair Booking System**
 Booking system for a local service business built with Next.js, TypeScript, Drizzle ORM, and Vercel.
-🔗 Live: https://hair-with-iryna.vercel.app/
-🔗 Code: /asynacasana/hair-booking-system
+🔗 **Live:** https://hair-with-iryna.vercel.app/
+💻 **Code:** /asynacasana/hair-booking-system
 
 ### **Finspect**
 Client project — a production-ready website for a property snagging business, built with Next.js and Sanity.
-🔗 Live: https://www.finispect.co.uk/
-🔗 Code: /asynacasana/finispect
+🔗 **Live:** https://www.finispect.co.uk/
+💻 **Code:** /asynacasana/finispect
 
 ### **Mindful Minutes Timer**
 Lightweight meditation timer with a calm UI and smooth animations.
-🔗 Live: https://meditation-timer-eta.vercel.app/
-🔗 Code: /asynacasana/meditation-timer
+🔗 **Live:** https://meditation-timer-eta.vercel.app/
+💻 **Code:** /asynacasana/meditation-timer
 
 ---
 
